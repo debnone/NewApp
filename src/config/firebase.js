@@ -1,6 +1,6 @@
 export default {
     apiKey: "",
-    authDomain: "t",
+    authDomain: "",
     projectId: "",
     storageBucket: "",
     messagingSenderId: "",
